@@ -1005,7 +1005,7 @@
     <artifact>
         <groupId>org.restlet.jee</groupId>
         <artifactId>org.restlet.ext.spring</artifactId>
-        <license>GPL 3.0 license</license>        
+        <license>GPL 3.0 license</license>
     </artifact>
     <artifact>
         <groupId>org.apache.tomcat</groupId>
@@ -1075,5 +1075,117 @@
         <groupId>opensymphony</groupId>
         <artifactId>ognl</artifactId>
         <license>Apache License, Version 2.0</license>
+    </artifact>
+
+
+    <artifact>
+        <groupId>commons-jelly</groupId>
+        <artifactId>commons-jelly-tags-fmt</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>commons-jelly</groupId>
+        <artifactId>commons-jelly-tags-xml</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>de.regnis.q.sequence</groupId>
+        <artifactId>sequence-library</artifactId>
+        <license>Sequence Library License</license>
+    </artifact>
+    <artifact>
+        <groupId>log4j</groupId>
+        <artifactId>log4j</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>net.java.dev.jna</groupId>
+        <artifactId>jna</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jenkins-ci</groupId>
+        <artifactId>commons-jelly</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jenkins-ci</groupId>
+        <artifactId>test-annotations</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jenkins-ci.dom4j</groupId>
+        <artifactId>dom4j</artifactId>
+        <license>BSD license</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jenkins-ci.lib</groupId>
+        <artifactId>lib-jenkins-maven-embedder</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jenkins-ci.svnkit</groupId>
+        <artifactId>svnkit</artifactId>
+        <license>TMate License</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet</groupId>
+        <artifactId>tiger-types</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.hudson</groupId>
+        <artifactId>activation</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.hudson</groupId>
+        <artifactId>commons-jelly-tags-define</artifactId>
+        <license>Apache License, Version 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.hudson</groupId>
+        <artifactId>embedded-rhino-debugger</artifactId>
+        <license>MPL 1.1/GPL 2.0</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.hudson</groupId>
+        <artifactId>maven2.1-interceptor</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.hudson</groupId>
+        <artifactId>netx</artifactId>
+        <license>LGPL, v2.1</license>
+    </artifact>
+    <artifact>
+        <groupId>org.jvnet.localizer</groupId>
+        <artifactId>localizer</artifactId>
+        <license>MIT License</license>
+    </artifact>
+    <artifact>
+        <groupId>org.kohsuke.jinterop</groupId>
+        <artifactId>j-interop</artifactId>
+        <license>LGPL, v3</license>
+    </artifact>
+    <artifact>
+        <groupId>org.kohsuke.jinterop</groupId>
+        <artifactId>j-interopdeps</artifactId>
+        <license>The Guile License (http://www.gnu.org/software/guile/docs/docs-1.6/guile-ref/Guile-License.html)</license>
+    </artifact>
+    <artifact>
+        <groupId>org.netbeans.modules</groupId>
+        <artifactId>org-netbeans-insane</artifactId>
+        <license>COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0	</license>
+    </artifact>
+    <artifact>
+        <groupId>org.tmatesoft.sqljet</groupId>
+        <artifactId>sqljet</artifactId>
+        <license>TMate License</license>
+    </artifact>
+    <artifact>
+        <groupId>relaxngDatatype</groupId>
+        <artifactId>relaxngDatatype</artifactId>
+        <license>undefined</license>
     </artifact>
 </license-lookup>
