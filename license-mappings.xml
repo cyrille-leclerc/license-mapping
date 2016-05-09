@@ -1223,4 +1223,9 @@
       <artifactId>optional-plugin-helper</artifactId>
       <license>MIT license</license>
   </artifact>
+  <artifact>
+      <groupId>org.jenkins-ci.main</groupId>
+      <artifactId>jenkins-test-harness-tools</artifactId>
+      <license>MIT license</license>
+  </artifact>
 </license-lookup>
