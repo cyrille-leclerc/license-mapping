@@ -1188,4 +1188,39 @@
         <artifactId>relaxngDatatype</artifactId>
         <license>undefined</license>
     </artifact>
+    <artifact>
+      <groupId>com.cloudbees</groupId>
+      <artifactId>endpoints</artifactId>
+      <license>cloudbees</license>
+  </artifact>
+  <artifact>
+      <groupId>com.cloudbees.bouncycastle</groupId>
+      <artifactId>lcrypto-jdk15on</artifactId>
+      <license>MIT license</license>
+  </artifact>
+  <artifact>
+      <groupId>com.cloudbees.jenkins.plugins</groupId>
+      <artifactId>cloudbees-aws-cli</artifactId>
+      <license>cloudbees</license>
+  </artifact>
+  <artifact>
+      <groupId>com.cloudbees.nectar.plugins</groupId>
+      <artifactId>cloudbees-license</artifactId>
+      <license>cloudbees</license>
+  </artifact>
+  <artifact>
+      <groupId>com.cloudbees.nectar.plugins</groupId>
+      <artifactId>nectar-license</artifactId>
+      <license>cloudbees</license>
+  </artifact>
+  <artifact>
+      <groupId>org.jenkins-ci</groupId>
+      <artifactId>SECURITY-144-compat</artifactId>
+      <license>MIT license</license>
+  </artifact>
+  <artifact>
+      <groupId>org.jenkins-ci.modules</groupId>
+      <artifactId>optional-plugin-helper</artifactId>
+      <license>MIT license</license>
+  </artifact>
 </license-lookup>
