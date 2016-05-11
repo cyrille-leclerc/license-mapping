@@ -1191,7 +1191,7 @@
     <artifact>
       <groupId>com.cloudbees</groupId>
       <artifactId>endpoints</artifactId>
-      <license>cloudbees</license>
+      <license>CloudBees License</license>
   </artifact>
   <artifact>
       <groupId>com.cloudbees.bouncycastle</groupId>
@@ -1201,17 +1201,17 @@
   <artifact>
       <groupId>com.cloudbees.jenkins.plugins</groupId>
       <artifactId>cloudbees-aws-cli</artifactId>
-      <license>cloudbees</license>
+      <license>CloudBees License</license>
   </artifact>
   <artifact>
       <groupId>com.cloudbees.nectar.plugins</groupId>
       <artifactId>cloudbees-license</artifactId>
-      <license>cloudbees</license>
+      <license>CloudBees License</license>
   </artifact>
   <artifact>
       <groupId>com.cloudbees.nectar.plugins</groupId>
       <artifactId>nectar-license</artifactId>
-      <license>cloudbees</license>
+      <license>CloudBees License</license>
   </artifact>
   <artifact>
       <groupId>org.jenkins-ci</groupId>
@@ -1228,4 +1228,366 @@
       <artifactId>jenkins-test-harness-tools</artifactId>
       <license>MIT license</license>
   </artifact>
+
+  <artifact>
+    <groupId>com.cloudbees</groupId>
+    <artifactId>jsync</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.ha</groupId>
+    <artifactId>jenkins-ha</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.ha</groupId>
+    <artifactId>jenkins-ha-warhead</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-aborted-builds</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-aws-credentials</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-aws-deployer</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-bitbucket-branch-source</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-consolidated-build-view</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-folders-plus</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-folders-plus</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-github-pull-requests</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-groovy-view</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-ha</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-jsync-archiver</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-long-running-build</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-monitoring</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-nodes-plus</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-plugin-usage</artifactId>
+    <version>1.6</version>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-quiet-start</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-secure-copy</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-ssh-slaves</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-support</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-view-creation-filter</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>cloudbees-wasted-minutes-tracker</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>git-validated-merge</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>git-validated-merge</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins</groupId>
+    <artifactId>github-pull-request-build</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-aggregator</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-rest-api</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-rest-api</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-template</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-template</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-ui</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>cloudbees-workflow-ui</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>workflow-cps-checkpoint</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.jenkins.plugins.workflow</groupId>
+    <artifactId>workflow-cps-checkpoint</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar</groupId>
+    <artifactId>nectar-rbac</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar</groupId>
+    <artifactId>nectar-rbac</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar</groupId>
+    <artifactId>nectar-vmware</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar.plugins</groupId>
+    <artifactId>cloudbees-even-scheduler</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar.plugins</groupId>
+    <artifactId>cloudbees-label-throttling-plugin</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar.plugins</groupId>
+    <artifactId>cloudbees-template</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar.plugins</groupId>
+    <artifactId>cloudbees-template</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar.plugins</groupId>
+    <artifactId>skip-plugin</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.nectar.plugins</groupId>
+    <artifactId>wikitext</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.client</groupId>
+    <artifactId>operations-center-analytics-reporter</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.client</groupId>
+    <artifactId>operations-center-client</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.client</groupId>
+    <artifactId>operations-center-client</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.client</groupId>
+    <artifactId>operations-center-cloud</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-agent</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-agent</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-analytics-config</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-context</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-context</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-openid-cse</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.cloudbees.operations-center.common</groupId>
+    <artifactId>operations-center-openid-cse</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>com.infradna.hudson.plugins</groupId>
+    <artifactId>infradna-backup</artifactId>
+    <license>CloudBees License</license>
+</artifact>
+<artifact>
+    <groupId>findbugs</groupId>
+    <artifactId>annotations</artifactId>
+    <license>Apache License, Version 2.0</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci</groupId>
+    <artifactId>jinterop-wmi</artifactId>
+    <license>Eclipse Public License EPLv1.0</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>build-view-column</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>build-view-column</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>dashboard-view</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>docker-java-shaded-traceability</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>ssh-slaves</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>suppress-stack-trace</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>token-macro</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>translation</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>unique-id</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>unique-id</artifactId>
+    <license>MIT license</license>
+</artifact>
+<artifact>
+    <groupId>org.jvnet.com4j.typelibs</groupId>
+    <artifactId>active-directory</artifactId>
+    <license>BSD license</license>
+</artifact>
+<artifact>
+    <groupId>org.jvnet.com4j.typelibs</groupId>
+    <artifactId>ado20</artifactId>
+    <license>BSD license</license>
+</artifact>
+<artifact>
+    <groupId>org.jvnet.hudson.plugins</groupId>
+    <artifactId>ssh-slaves</artifactId>
+    <license>MIT license</license>
+</artifact>
 </license-lookup>
